@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "const Lucas = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,7 +11,7 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
+		"name": "Lucas Kim.",
 		"usp": "I design and build meaningful experiences."
 	},
 
@@ -20,12 +20,12 @@
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "https://about.me/lkim227",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://www.linkedin/in/lkim227",
 			"leaveSite": "true"
 		}
 	}
