@@ -11,7 +11,7 @@
 
 ## Updates
 #### Dev Update — July 6th, 2023 🥰
-We have relocated to a beautiful home in the suburbs of Langely, BC. There has been a LOT of work unpacking, organizing, and landscaping to get this home perfect for our two toddlers! I am hoping to resume development of the theme in the next couple months!
+We have relocated to a beautiful home in the suburbs of Frankfrut, DE. There has been a LOT of work unpacking, organizing, and landscaping to get this home perfect for our two toddlers! I am hoping to resume development of the theme in the next couple months!
 
 On a really interesting note, Webflow has launched a React component export tool. I am considering moving all component design and management over to Webflow for easier tooling for marketing teams and visual designers! 
 #### Dev Update — Feb 13th, 2023 [Updated: March 05th, 2023]
@@ -58,6 +58,6 @@ Fork, Install, Editing, and Deploy instructions coming soon(ish)!
 
 This is my first open-source contribution, and it was also a great oppoortunity for me to learn! 
 
-It is my hope that by sharing this project it can give others a chance to enjoy learning Nextjs (and have as much fun as I did), and hopefully brings value to people as a portfolio and networking tool!
+It is my hope that by sharing this project it can give others a chance to enjoy learning Nextjs (and have as much fun as I did), and hopefully brings value to people as a portfolio and networking tool
 
 
