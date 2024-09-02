@@ -41,20 +41,26 @@ export default function About() {
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Boxby"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy='`Boxby is a project I built along with my team of 5 people in RMIT ITS Hackathon 2019. 
+							The theme was "An Equal Community", which led to the idea of building a platform that caches the internet and provides an isolated offline version. 
+							The name Boxby was inspired by The Box from the TV series Silicon Valley.`'
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Purpose of the project" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy='`Similar inventions to Boxby were built to solve the problem of social equality however, most of them were unsuccessful1. 
+							Despite the cheap price, such devices can not be considered useful if they provide no consequential benefit to the community.
+							By learning from the areas in which others have failed, we believe that limited education resource is the core problem which leads to social inequality. 
+							The Internet is the most powerful tool to help people to achieve better educational outcomes, however many areas and countries face limited to no internet connection with their devices. 
+							Rural areas in Australia are also known to face similar issues2.`'
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
