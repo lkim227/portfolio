@@ -28,10 +28,15 @@ By learning from the areas in which others have failed, we believe that limited 
 
 ## This website is still being developed! 🥳
 The porftofolio application has currently hit the Beta phase and is ready to be forked if you are familiar with React and Next. The next release cycle will focus on a better DX—moving from local JSON to MongoDB, setting up Sanity for GUI page editing, Unit Testing with Jest, adding TypeScript, etc.
+And also using Docker and Github action workflow for deploying project.
+My projects are using microservices such as Kafka apache stream server.
 
 #### Next & App Architecure
 - [ ] Next.js v13 : Waiting for /app/ folder to leave beta
 - [ ] Sanity.io
+
+### Test & Emulator
+- [] Unit test and E2E test
 
 #### App Architecure & Design Systems
 - [ ] App\Systems\Margins : Continuing to develop Design Token System
