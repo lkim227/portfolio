@@ -7,10 +7,10 @@ import settings	from '../../content/_settings.json'
 //
 export default function Articles({ mediumArticles }) {
 	return (
-		<React.Fragment>
+		<>
 			<Color colors={colors} />
 			<Recent mediumArticles={mediumArticles}/>
-		</React.Fragment>
+		</>
 	)
 }
 
