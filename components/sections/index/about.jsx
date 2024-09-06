@@ -1,14 +1,11 @@
 // Core packages
-import Image from 'next/image'
-
+// import Image from 'next/image'
 // Section structure
 import Section from '../../structure/section';
 import Container from '../../structure/container';
-
 // Section general blocks
 import SectionTitle from '../../blocks/section.title.block'
-import SectionGridBg from '../../blocks/section.grid.block'
-
+// import SectionGridBg from '../../blocks/section.grid.block'
 // Section specific blocks
 import BadgesBlock from '../../blocks/about.badges.block'
 import CopyBlock from '../../blocks/about.copy.block'
