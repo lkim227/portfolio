@@ -48,7 +48,7 @@ export default function Career() {
 						<div className={career.position}>
 							<div className={career.positionContent}>
 								<span class={career.positionHeader}>
-									<h3>Director of Product Design and Development</h3>
+									<h3>Project manager of Retail</h3>
 									<h4>Nov 2021 - Present · 1 yrs 3 mos</h4>
 								</span>
 								<p>
